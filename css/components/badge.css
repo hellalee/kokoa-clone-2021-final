@@ -1,0 +1,26 @@
+.badge {
+  background-color: tomato;
+  width: 30px;
+  height: 30px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-weight: 600;
+}
+
+.badge-mark {
+  border: 2px solid tomato;
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: tomato;
+  font-weight: 1000;
+  position: absolute;
+  bottom: 11px;
+  left: 238px;
+}
